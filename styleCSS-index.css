@@ -39,12 +39,6 @@ menu {
       border-right-style: groove;
       padding-right: 10px;
 }
-section {
-    
-    }
-header {
-    
-    }
 .container-flex {
     display: flex;
     flex-wrap: nowrap;
