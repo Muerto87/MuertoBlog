@@ -1,0 +1,53 @@
+body {
+    height: 100%;
+    right: 100%;
+    left: 100%;
+    top: 100px;
+    bottom: 100px;
+    margin:1%;
+    padding: 5px;
+    padding-top: 10px;
+    
+}
+nav {
+    padding-bottom: 15px;
+    position: relative;
+    align-content: center;
+}
+menu {
+      border-right: dimgray;
+      border-right-style: groove;
+      padding-right: 10px;
+}
+section {
+    
+    }
+header {
+    
+    }
+.container-flex {
+    display: flex;
+    flex-wrap: nowrap;
+}
+.flex-item-left {
+    flex: 10%;
+}
+.flex-item-right {
+    flex: 90%
+}
+.container-flexnav {
+    display: flex;
+    flex-wrap:nowrap;
+}
+.flex-item1 {
+    flex: 20%;
+}
+.flex-item2 {
+    flex: 20%;
+}
+.flex-item3 {
+    flex: 20%;
+}
+.flex-item4 {
+    flex: 20%;
+}
